@@ -4,9 +4,9 @@
 
 I'm a first-year Electrical and Electronics Engineering student interested in **quantum computing, scientific computing, and programming**. I'm currently building my programming foundation in C, Java, and Python while exploring quantum computing and the connection between computing, mathematics, and physics.
 
-🔗 **LinkedIn:** [Add your LinkedIn URL]
-💻 **GitHub:** [Your GitHub Profile]
-📧 **Email:** [Add your professional email]
+🔗 **LinkedIn:** https://www.linkedin.com/in/isha-ms-321a76437/
+💻 **GitHub:** https://github.com/ishams12033-spec
+📧 **Email:** ishams12033@gmail.com
 
 ---
 
@@ -61,15 +61,7 @@ A collection of C programming exercises and problem-solving practice created whi
 * Basic problem solving
 * Pattern programs
 
-🔗 **Repository:** [Add repository link]
-
----
-
-### 🔹 Python Practice
-
-A collection of Python programming exercises and practice programs as I continue developing my Python skills.
-
-🔗 **Repository:** [Add repository link]
+🔗 **Repository:** https://github.com/ishams12033-spec/C--programming
 
 ---
 
@@ -124,12 +116,6 @@ A future space for documenting my exploration of quantum computing through learn
 
 ---
 
-# 🏆 Certifications & Achievements
-
-### Certifications
-
-* [Add certifications here as you earn them]
-
 ### Achievements
 
 * Building a technical portfolio across **C, Java, and Python**
@@ -152,11 +138,11 @@ I use GitHub to document my programming journey, experiment with technologies, a
 
 I'm interested in connecting with students, developers, engineers, researchers, and technology enthusiasts interested in **programming, quantum computing, scientific computing, and emerging technologies**.
 
-🔗 **LinkedIn:** [Add your LinkedIn URL]
+🔗 **LinkedIn:** https://www.linkedin.com/in/isha-ms-321a76437/
 
-💻 **GitHub:** [Your GitHub Profile]
+💻 **GitHub:** https://github.com/ishams12033-spec
 
-📧 **Email:** [Add your professional email]
+📧 **Email:** ishams12033@gmail.com
 
 ---
 
